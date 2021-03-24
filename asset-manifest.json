@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-v1.0.1/static/css/main.5b7a76b8.chunk.css",
+    "main.js": "/portfolio-v1.0.1/static/js/main.31ff4ebe.chunk.js",
+    "main.js.map": "/portfolio-v1.0.1/static/js/main.31ff4ebe.chunk.js.map",
+    "runtime-main.js": "/portfolio-v1.0.1/static/js/runtime-main.cfbbcf26.js",
+    "runtime-main.js.map": "/portfolio-v1.0.1/static/js/runtime-main.cfbbcf26.js.map",
+    "static/js/2.5f628737.chunk.js": "/portfolio-v1.0.1/static/js/2.5f628737.chunk.js",
+    "static/js/2.5f628737.chunk.js.map": "/portfolio-v1.0.1/static/js/2.5f628737.chunk.js.map",
+    "static/js/3.5bf813b4.chunk.js": "/portfolio-v1.0.1/static/js/3.5bf813b4.chunk.js",
+    "static/js/3.5bf813b4.chunk.js.map": "/portfolio-v1.0.1/static/js/3.5bf813b4.chunk.js.map",
+    "index.html": "/portfolio-v1.0.1/index.html",
+    "static/css/main.5b7a76b8.chunk.css.map": "/portfolio-v1.0.1/static/css/main.5b7a76b8.chunk.css.map",
+    "static/js/2.5f628737.chunk.js.LICENSE.txt": "/portfolio-v1.0.1/static/js/2.5f628737.chunk.js.LICENSE.txt",
+    "static/media/backpacker-2.1a4c4210.jpg": "/portfolio-v1.0.1/static/media/backpacker-2.1a4c4210.jpg",
+    "static/media/backpacker-3.09f41c3a.jpg": "/portfolio-v1.0.1/static/media/backpacker-3.09f41c3a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfbbcf26.js",
+    "static/js/2.5f628737.chunk.js",
+    "static/css/main.5b7a76b8.chunk.css",
+    "static/js/main.31ff4ebe.chunk.js"
+  ]
+}
